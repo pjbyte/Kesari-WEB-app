@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.local/
+.env
+server/data/
+*.log
+public/network-qr.png
+.agents/
+skills-lock.json
+*.py
+scrape.py
+inspect_html.py
+test_curl.html
+/assets/
